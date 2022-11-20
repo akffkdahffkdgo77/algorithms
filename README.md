@@ -1,2 +1,2 @@
-# programmers
+# ALGORITHMS
 ㆍ ㅅ ㆍ
