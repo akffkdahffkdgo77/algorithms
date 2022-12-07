@@ -3,7 +3,7 @@
  *  https://www.acmicpc.net/
  *  Level: 새싹
  *  Type : 조건
- *  Problem : 	2753
+ *  Problem : 2753
  */
 
 const readline = require('readline');
