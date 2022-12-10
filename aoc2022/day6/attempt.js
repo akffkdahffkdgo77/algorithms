@@ -1,3 +1,9 @@
+/**
+ *  Advent of Code 2022
+ *  Day 6
+ *  Problem : https://adventofcode.com/2022/day/6
+ */
+
 const input = require('fs').readFileSync('./example.txt').toString().split('\n');
 
 // Part 1
