@@ -2,7 +2,7 @@
  *  BAEKJOON ONLINE JUDGE
  *  https://www.acmicpc.net/
  *  Level: CLASS 3
- *  Problem : 10188
+ *  Problem : 5430
  */
 
 const [N, ...input] = require('fs')
