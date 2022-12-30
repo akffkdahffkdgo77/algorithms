@@ -1,7 +1,7 @@
 /**
  *  BAEKJOON ONLINE JUDGE
  *  https://www.acmicpc.net/
- *  Level: Silver IV
+ *  Level: CLASS 3
  *  Problem : 1620
  */
 
