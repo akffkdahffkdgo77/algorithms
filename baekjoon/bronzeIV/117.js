@@ -14,7 +14,7 @@ const input = require('fs')
     .split(' ')
     .map(Number);
 
-const obj = input.reduce((prev, cur) => ({ ...prev, [cur]: prev[cur] ? prev[cur] + 1 : 1 }), 0);
+const obj = input.reduce((prev, cur) => ({ ...prev, [cur]: prev[cur] ? prev[cur] + 1 : 1 }), {});
 const answer = Object.keys(obj).filter((key) => obj[key] > 1)[0];
 
 console.log(answer ? answer : input[0]);
