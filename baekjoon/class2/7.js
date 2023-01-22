@@ -21,5 +21,6 @@ const [A, B, V] = require('fs')
 //     height -= B;
 // }
 
+// (A-B) * answer = V - B
 const answer = (V - B) % (A - B) !== 0 ? Math.ceil((V - B) / (A - B)) : (V - B) / (A - B);
 console.log(answer);
