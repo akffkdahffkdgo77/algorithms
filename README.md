@@ -47,8 +47,8 @@
 
 | 레벨      | 해결 | 미해결 | 상태                |
 | --------- | ---- | ------ | ------------------- |
-| Bronze V  | 117  | 1      | ALL SOLVE 배너 획득 |
-| Bronze IV | 70   | 129    | ~ing                |
+| Bronze V  | 118  | 0      | ALL SOLVE 배너 획득 |
+| Bronze IV | 209  | 0      | ALL SOLVE 배너 획득 |
 
 ## [Advent of Code 2022](https://adventofcode.com/)
 
