@@ -15,7 +15,7 @@ const [n, ...input] = require('fs')
 
 const arr = [Array.from({ length: 14 }).map((_, i) => i + 1)];
 
-// 모든 방(15 * 15) 에 있는 사람들 수 계산
+// 모든 방(14 * 14) 에 있는 사람들 수 계산
 for (let i = 0; i < 14; i++) {
     const people = [];
     for (let j = 0; j < 14; j++) {
