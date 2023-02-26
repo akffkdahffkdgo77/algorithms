@@ -1,7 +1,7 @@
 /*
  *  BAEKJOON ONLINE JUDGE
  *  https://www.acmicpc.net
- *  Level : Silver V
+ *  Level : Silver IV
  *  Problem : 9613
  *  Algorithm : 수학, 정수론, 유클리드 호제법
  */
