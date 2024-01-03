@@ -3,7 +3,7 @@
  *  https://www.acmicpc.net/
  *  Level : Bronze III
  *  Problem : 10988
- *  Algorithm : Math, String, Arithmetic Operations, Parsing
+ *  Algorithm : Implementation, String
  */
 
 const word = require('fs')
