@@ -1,7 +1,7 @@
 /**
  *  BAEKJOON ONLINE JUDGE
  *  https://www.acmicpc.net/
- *  Level : CLASS 3 (Silver IV)
+ *  Level : CLASS III (Silver IV)
  *  Problem : 11047
  *  Algorithm : 그리디 알고리즘
  */

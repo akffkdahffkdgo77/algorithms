@@ -1,7 +1,7 @@
 /**
  *  BAEKJOON ONLINE JUDGE
  *  https://www.acmicpc.net/
- *  Level: CLASS 2
+ *  Level : CLASS II (Bronze I)
  *  Problem : 2775
  *  Algorithm : 수학, 구현, 다이나믹 프로그래밍
  */

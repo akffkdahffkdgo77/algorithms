@@ -1,7 +1,7 @@
 /**
  *  BAEKJOON ONLINE JUDGE
  *  https://www.acmicpc.net/
- *  Level: CLASS 2 (Silver V)
+ *  Level : CLASS II (Silver V)
  *  Problem : 11866
  *  Algorithm : 구현, 자료 구조, 큐
  */

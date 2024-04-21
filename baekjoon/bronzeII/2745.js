@@ -1,9 +1,9 @@
 /**
  *  BAEKJOON ONLINE JUDGE
  *  https://www.acmicpc.net/
- *  Level: Bronze II
+ *  Level : Bronze II
  *  Problem : 2745
- *  Algorithm: Math, Number Theory, Prime Number
+ *  Algorithm : Math, Number Theory, Prime Number
  */
 
 const [N, B] = require('fs')

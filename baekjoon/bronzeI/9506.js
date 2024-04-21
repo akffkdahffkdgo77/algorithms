@@ -1,9 +1,9 @@
 /**
  *  BAEKJOON ONLINE JUDGE
  *  https://www.acmicpc.net/
- *  Level: Bronze I
+ *  Level : Bronze I
  *  Problem : 9506
- *  Algorithm: Math, Implementation, Number Theory
+ *  Algorithm : Math, Implementation, Number Theory
  */
 
 const input = require('fs')

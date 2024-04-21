@@ -1,13 +1,13 @@
 /**
  *  BAEKJOON ONLINE JUDGE
  *  https://www.acmicpc.net/
- *  Level: Silver II
+ *  Level : Silver II
  *  Problem : 17427
- *  Algorithm: Math, Number Theory
+ *  Algorithm : Math, Number Theory
  */
 
-const N = require("fs")
-    .readFileSync(process.platform === "linux" ? "/dev/stdin" : "../../input.txt")
+const N = require('fs')
+    .readFileSync(process.platform === 'linux' ? '/dev/stdin' : '../../input.txt')
     .toString()
     .trim();
 

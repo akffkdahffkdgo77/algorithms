@@ -1,9 +1,9 @@
 /**
  *  BAEKJOON ONLINE JUDGE
  *  https://www.acmicpc.net/
- *  Level: Bronze I
+ *  Level : Bronze I
  *  Problem : 1037
- *  Algorithm: Math, Number Theory
+ *  Algorithm : Math, Number Theory
  */
 
 const [num, list] = require('fs')

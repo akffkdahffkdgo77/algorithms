@@ -1,7 +1,7 @@
 /**
  *  BAEKJOON ONLINE JUDGE
  *  https://www.acmicpc.net/
- *  Level: CLASS 2
+ *  Level : CLASS II (Bronze II)
  *  Problem : 2798
  *  Algorithm : Brute Force Algorithm
  */

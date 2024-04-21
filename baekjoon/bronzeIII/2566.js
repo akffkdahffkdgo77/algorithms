@@ -1,22 +1,22 @@
 /**
  *  BAEKJOON ONLINE JUDGE
  *  https://www.acmicpc.net/
- *  Level: Bronze III
+ *  Level : Bronze III
  *  Problem : 2566
- *  Algorithm: Implementation
+ *  Algorithm : Implementation
  */
 
-const input = require("fs")
-    .readFileSync(process.platform === "linux" ? "/dev/stdin" : "../../input.txt")
+const input = require('fs')
+    .readFileSync(process.platform === 'linux' ? '/dev/stdin' : '../../input.txt')
     .toString()
     .trim()
-    .split("\n");
+    .split('\n');
 
 let [x, y] = [1, 1];
 
 let max = 0;
 for (let i = 0; i < input.length; i++) {
-    const row = input[i].split(" ").map(Number);
+    const row = input[i].split(' ').map(Number);
     for (let j = 0; j < row.length; j++) {
         if (max !== Math.max(row[j], max)) {
             console.log(max, j, i);

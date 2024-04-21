@@ -1,18 +1,18 @@
 /**
  *  BAEKJOON ONLINE JUDGE
  *  https://www.acmicpc.net/
- *  Level: Bronze V
+ *  Level : Bronze V
  *  Problem : 30224
- *  Algorithm: Math, Implementation
+ *  Algorithm : Math, Implementation
  */
 
-const N = require("fs")
-    .readFileSync(process.platform === "linux" ? "/dev/stdin" : "../../../input.txt")
+const N = require('fs')
+    .readFileSync(process.platform === 'linux' ? '/dev/stdin' : '../../../input.txt')
     .toString()
     .trim();
 
 const num = Number(N);
-if (N.includes("7")) {
+if (N.includes('7')) {
     if (num % 7 === 0) {
         console.log(3);
     } else {

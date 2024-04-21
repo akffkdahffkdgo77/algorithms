@@ -1,9 +1,9 @@
 /**
  *  BAEKJOON ONLINE JUDGE
  *  https://www.acmicpc.net/
- *  Level: Bronze II
+ *  Level : Bronze II
  *  Problem : 5622
- *  Algorithm: Implementation
+ *  Algorithm : Implementation
  */
 
 const wordList = require('fs')

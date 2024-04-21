@@ -1,16 +1,16 @@
 /*
  *  BAEKJOON ONLINE JUDGE
  *  https://www.acmicpc.net
- *  Problem Number: 9012
- *  Level: CLASS 2
- *  Algorithm: Data Structure, String, Stack
+ *  Level : CLASS II (Silver IV)
+ *  Problem : 9012
+ *  Algorithm : Data Structure, String, Stack
  */
 
-const input = require("fs")
-    .readFileSync(process.platform === "linux" ? "/dev/stdin" : "../../input.txt")
+const input = require('fs')
+    .readFileSync(process.platform === 'linux' ? '/dev/stdin' : '../../input.txt')
     .toString()
     .trim()
-    .split("\n");
+    .split('\n');
 input.shift();
 
 for (let i = 0; i < input.length; i++) {
@@ -18,9 +18,9 @@ for (let i = 0; i < input.length; i++) {
     let count = 0;
     let isMatching = true;
     while (count < input[i].length) {
-        const quotient = input[i].split("")[count++];
+        const quotient = input[i].split('')[count++];
         // 왼쪽 괄호면 추가
-        if (quotient === "(") {
+        if (quotient === '(') {
             stack.push(quotient);
         } else {
             // 스택이 비어있다면 오류
@@ -34,8 +34,8 @@ for (let i = 0; i < input.length; i++) {
     }
 
     if (isMatching && !stack.length) {
-        console.log("YES");
+        console.log('YES');
     } else {
-        console.log("NO");
+        console.log('NO');
     }
 }

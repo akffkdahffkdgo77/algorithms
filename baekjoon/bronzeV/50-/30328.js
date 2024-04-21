@@ -1,13 +1,13 @@
 /**
  *  BAEKJOON ONLINE JUDGE
  *  https://www.acmicpc.net/
- *  Level: Bronze V
+ *  Level : Bronze V
  *  Problem : 30328
- *  Algorithm: Math, Arithmetic Operations
+ *  Algorithm : Math, Arithmetic Operations
  */
 
-const input = require("fs")
-    .readFileSync(process.platform === "linux" ? "/dev/stdin" : "../../../input.txt")
+const input = require('fs')
+    .readFileSync(process.platform === 'linux' ? '/dev/stdin' : '../../../input.txt')
     .toString()
     .trim();
 

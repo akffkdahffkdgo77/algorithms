@@ -1,9 +1,9 @@
 /**
  *  BAEKJOON ONLINE JUDGE
  *  https://www.acmicpc.net/
- *  Level: Bronze V
+ *  Level : Bronze V
  *  Problem : 28938
- *  Algorithm: Math, Implementation, Arithmetic Operations
+ *  Algorithm : Math, Implementation, Arithmetic Operations
  */
 
 const [N, input] = require('fs')

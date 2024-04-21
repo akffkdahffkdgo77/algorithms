@@ -1,9 +1,9 @@
 /**
  *  BAEKJOON ONLINE JUDGE
  *  https://www.acmicpc.net/
- *  Level: Bronze V
+ *  Level : Bronze V
  *  Problem : 28235
- *  Algorithm: Implementation
+ *  Algorithm : Implementation
  */
 
 const input = require('fs')
@@ -16,7 +16,7 @@ const obj = {
     SONGDO: 'HIGHSCHOOL',
     CODE: 'MASTER',
     2023: '0611',
-    ALGORITHM: 'CONTEST'
+    Algorithm: 'CONTEST'
 };
 
 console.log(obj[input]);

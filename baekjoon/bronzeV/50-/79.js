@@ -2,16 +2,16 @@
  *  BAEKJOON ONLINE JUDGE
  *  https://www.acmicpc.net
  *  Problem Number: 27294
- *  Level: Bronze V
- *  Algorithm: Math, Implementation
+ *  Level : Bronze V
+ *  Algorithm : Math, Implementation
  */
 
-const [T, S] = require("fs")
-    .readFileSync(process.platform === "linux" ? "/dev/stdin" : "../../input.txt")
+const [T, S] = require('fs')
+    .readFileSync(process.platform === 'linux' ? '/dev/stdin' : '../../input.txt')
     .toString()
     .trim()
-    .split("\n")[0]
-    .split(" ")
+    .split('\n')[0]
+    .split(' ')
     .map(Number);
 
 if (T >= 12 && T <= 16) {

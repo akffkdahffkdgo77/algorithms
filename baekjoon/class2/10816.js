@@ -1,7 +1,7 @@
 /**
  *  BAEKJOON ONLINE JUDGE
  *  https://www.acmicpc.net/
- *  Level: CLASS 2
+ *  Level : CLASS II (Silver IV)
  *  Problem : 10816
  *  Algorithm : 자료 구조, 정렬, 이분 탐색, 해시를 사용한 집합과 맵
  */
