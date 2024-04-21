@@ -1,7 +1,7 @@
 /*
  *  BAEKJOON ONLINE JUDGE
  *  https://www.acmicpc.net
- *  Level : Bronze IV
+ *  Level : Bronze III
  *  Problem : 24623
  *  Algorithm : Math, Geometry
  */

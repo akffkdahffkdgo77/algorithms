@@ -1,7 +1,7 @@
 /*
  *  BAEKJOON ONLINE JUDGE
  *  https://www.acmicpc.net
- *  Level : Bronze IV
+ *  Level : Bronze V
  *  Problem : 24883
  *  Algorithm : Implementation
  */
