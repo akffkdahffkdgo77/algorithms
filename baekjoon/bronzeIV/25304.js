@@ -1,7 +1,7 @@
 /**
  *  BAEKJOON ONLINE JUDGE
  *  https://www.acmicpc.net/
- *  Level : Bronze V
+ *  Level : Bronze IV
  *  Problem : 25304
  */
 

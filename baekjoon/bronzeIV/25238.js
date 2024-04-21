@@ -1,16 +1,16 @@
-/*
+/**
  *  BAEKJOON ONLINE JUDGE
- *  https://www.acmicpc.net
- *  Problem Number: 27323
- *  Level : Bronze V
- *  Algorithm : Math, Geometry, Arithmetic Operations
+ *  https://www.acmicpc.net/
+ *  Level : Bronze IV
+ *  Problem : 25238
  */
 
 const [A, B] = require('fs')
     .readFileSync(process.platform === 'linux' ? '/dev/stdin' : '../../input.txt')
     .toString()
     .trim()
-    .split('\n')
+    .split('\n')[0]
+    .split(' ')
     .map(Number);
 
-console.log(A * B);
+console.log(A - A * (B / 100) >= 100 ? 0 : 1);

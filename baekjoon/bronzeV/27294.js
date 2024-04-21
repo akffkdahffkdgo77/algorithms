@@ -1,8 +1,8 @@
 /*
  *  BAEKJOON ONLINE JUDGE
  *  https://www.acmicpc.net
- *  Problem Number: 27294
  *  Level : Bronze V
+ *  Problem : 27294
  *  Algorithm : Math, Implementation
  */
 
